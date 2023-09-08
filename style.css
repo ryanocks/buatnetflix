@@ -1,0 +1,7 @@
+.app-netflix {
+  /* background-image: url(bg.jpg); */
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
